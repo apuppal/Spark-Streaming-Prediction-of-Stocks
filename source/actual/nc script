@@ -1,0 +1,1 @@
+tail -f /Users/apple/Documents/uconn/sparktraining/streamapp/test.txt | nc -lk 9997

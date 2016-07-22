@@ -1,0 +1,1 @@
+tail -f /streamapp/working/test.txt | nc -lk 9997

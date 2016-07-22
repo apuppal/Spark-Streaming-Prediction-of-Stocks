@@ -1,0 +1,12 @@
+from pyspark.mllib.clustering import StreamingKMeans library is not available
+Streaming is not accepting Labelled point datatype
+Pyspark is not able to take sample appropriately
+while running experimental source code of streamingkmeans it is leading to many other interrelated issues which I assume are beyond the scope of project
+The streamingkmeans is not able to connect to Lightning visualization, so I am not able to show the visualizations
+
+read me file
+comments
+
+what are we trying to do in actual code
+
+screenshots
